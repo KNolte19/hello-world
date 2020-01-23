@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hello im Kristopher and im from Wuerzburg. 
